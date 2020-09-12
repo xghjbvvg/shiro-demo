@@ -23,4 +23,6 @@ public class NoPermissionException {
     public String AuthorizationException(Exception ex) {
         return "权限认证失败";
     }
+
+
 }
